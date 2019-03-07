@@ -8,7 +8,7 @@ summary: <SUMMARY>
 
 ## Description
 
-## Checklist
+## Actions
 
 | Action | Completed                           |
 |--------|-------------------------------------|
